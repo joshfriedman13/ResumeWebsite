@@ -82,6 +82,13 @@ li{
     border-radius: 50%;
 }
 
+#work-logo{
+    height: 30px;
+    width: 30px;
+    justify-content: center;
+    vertical-align: middle;
+}
+
 #email{
     color: var(--mainTextColor);
 }
